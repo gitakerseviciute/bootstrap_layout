@@ -7,3 +7,16 @@
 .container {
     height: 100vh;
 }
+
+
+img {
+    object-fit: cover;
+}
+
+.height {
+    height: 30vh;
+}
+
+.height_ {
+    height: 40vh;
+}
